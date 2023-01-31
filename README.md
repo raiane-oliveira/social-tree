@@ -1,6 +1,6 @@
 # Social Tree
 
-Desafio do curso Discover da Rocketseat para criar uma pasta de links que pode ser usada em perfis de redes sociais.
+Desafio do curso Discover da Rocketseat para criar um site com uma pasta de links que pode ser usada em perfis de redes sociais.
 
 ## Requisitos
 
@@ -16,4 +16,6 @@ Desafio do curso Discover da Rocketseat para criar uma pasta de links que pode s
 
 -   HTML semântico
 -   Meta SEO tags
--   Propriedade CSS Transform
+-   Propriedade CSS Transform ```scale()```
+-   Melhor uso da propriedade CSS ```min-width``` para o desing responsivo
+-   Valores relativos para responsividade, como o ```rem```
